@@ -1,10 +1,10 @@
-import { AngularPhonecatHybridIIPage } from './app.po';
+import { AngularPhonecatHybridPage } from './app.po';
 
-describe('angular-phonecat-hybrid-ii App', () => {
-  let page: AngularPhonecatHybridIIPage;
+describe('angular-phonecat-hybrid App', () => {
+  let page: AngularPhonecatHybridPage;
 
   beforeEach(() => {
-    page = new AngularPhonecatHybridIIPage();
+    page = new AngularPhonecatHybridPage();
   });
 
   it('should display message saying app works', () => {

@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class AngularPhonecatHybridIIPage {
+export class AngularPhonecatHybridPage {
   navigateTo() {
     return browser.get('/');
   }
