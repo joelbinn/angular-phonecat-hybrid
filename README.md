@@ -12,9 +12,11 @@ was copied into the `src/app-ajs` catalogue of this project and `bower_component
 
 At this state the project was committed and the git tag `initial` was set. 
 
-Then all changes needed to make that phonecat waork as a hybrid was done
+Then all changes needed to make that phonecat work as a hybrid was done
 and committed. The git tag `converted-and-hybrid-bootstrapped` corresponds
-to this state, which is a working Phonecat application that can be run with
+to this state. 
 
-    $ ng serve
+The master branch is a working hybrid Phonecat application that can be run with
+
+    $ npm start
     
