@@ -33,7 +33,7 @@
     "zone.js": "0.8.4"
   },
   "devDependencies": {
-    "@angular/cli": "1.0.2",
+    "@angular/cli": "1.7.4",
     "@angular/compiler-cli": "4.0.0",
     "@types/angular": "1.6.17",
     "@types/angular-animate": "1.5.6",
